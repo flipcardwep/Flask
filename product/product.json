@@ -1,0 +1,19 @@
+{
+    "product": {
+        "mobil": "electric/mobil",
+        "shree": "cloth/shree",
+        "laptop": "electric/laptop"
+    },
+    "detail": {
+        "mobil": ["ram","processer","c_type"],
+        "shree": ["color","cloth"],
+        "laptop": ["ram","processer","c_type"]
+    },
+    "de_obj": {
+        "ram": ["4gb","8gb","16gb","32gb"],
+        "processer": ["i3","i5","i7","i9"],
+        "c_type": ["5g","4g"],
+        "color": ["red","yellow"],
+        "cloth": ["cotton","telecote"]
+    }
+}
